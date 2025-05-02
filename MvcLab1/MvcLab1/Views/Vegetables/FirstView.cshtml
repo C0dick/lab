@@ -1,0 +1,14 @@
+﻿@model List<string>
+
+@{
+    ViewBag.Title = "Список овощей";
+}
+
+<h2>Список овощей</h2>
+
+<ul>
+    @foreach (var vegetable in Model)
+    {
+        <li>@vegetable</li>
+    }
+</ul>

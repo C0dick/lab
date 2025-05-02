@@ -81,7 +81,7 @@
 
 
 
-## Выполненные лабораторные работы
+## Список лабораторных работ
 
 ### 2. [Подключение Entity Framework](https://github.com/C0dick/lab/tree/main/SurveyApp)
 **Итог**:

@@ -1,0 +1,24 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Стили для таблицы */
+.table {
+    margin-top: 20px;
+}
+
+    /* Стили для строк в таблице */
+    .table tr:hover {
+        background-color: #f5f5f5;
+    }
+
+/* Стили для кнопок */
+.btn {
+    margin-right: 5px;
+}
+
+/* Стили для строк в формах */
+.row {
+    margin-bottom: 15px;
+}
